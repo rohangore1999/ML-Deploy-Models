@@ -14,7 +14,7 @@ def home():
 
 @app.route('/predict',methods=['POST'])
 def predict():
-	df=pd.read_csv("spam.csv")
+	df=pd.read_csv("dataset.csv")
 	df_data=df[["v2","score"]]
 	
 	#Feature & labels

@@ -2,7 +2,7 @@ Flask==1.0.2
 Flask-Cors==3.0.3
 gevent==1.2.2
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.11.3
 JsonForm==0.0.2
 numpy==1.16.2
 numpydoc==0.7.0

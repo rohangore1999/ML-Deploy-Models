@@ -4,7 +4,7 @@ gevent==1.2.2
 itsdangerous==0.24
 Jinja2==2.10
 JsonForm==0.0.2
-numpy==1.16.2
+numpy==1.22.0
 numpydoc==0.7.0
 pandas==0.22.0
 pandocfilters==1.4.2
